@@ -9,7 +9,7 @@ import (
 	"github.com/jordyv/prometheus-p1-exporter/conn"
 	"github.com/jordyv/prometheus-p1-exporter/parser"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/prometheus/client_golang/prometheus/promhttp"
 )
